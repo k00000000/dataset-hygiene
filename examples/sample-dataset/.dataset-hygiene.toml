@@ -1,0 +1,9 @@
+include_hidden = false
+largest = 10
+tiny_threshold = 32
+exclude = ["*.tmp", "scratch/**"]
+perceptual_hash = false
+compute_compressibility = false
+fail_on_issues = false
+summary_only = false
+top_extensions = 20
